@@ -3,6 +3,9 @@
 # PREVIEW 
 Access here: project-solar-system-ramon.surge.sh
 
+![Screenshot from 2022-12-08 20-42-55](https://user-images.githubusercontent.com/70456830/206590025-ef5ec672-96fe-4b69-8afb-81b4437c15e1.png)
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 This is a [ReactJS](https://reactjs.org) + [Vite](https://vitejs.dev) boilerplate to be used with [Tailwindcss](https://tailwindcss.com).
